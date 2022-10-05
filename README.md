@@ -2,6 +2,10 @@
 
 Run dumprX with docker
 
+Great thanks to DumprX developers
+
+[DumprX](https://github.com/DumprX/DumprX)
+
 ### Get Started
 
 1. Clone this repo
